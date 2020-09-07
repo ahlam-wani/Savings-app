@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Savings</string>
     <string name="savingd">SAVINGS</string>
+    <string name="hello_to_savings">Hello <br>to Savings</br></string>
 </resources>
